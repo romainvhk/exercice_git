@@ -1,0 +1,1 @@
+Ceci est un exercice pour maîtriser les bases de git.
